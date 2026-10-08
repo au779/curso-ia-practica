@@ -8,3 +8,7 @@ bin/
 gh.zip
 Git-*-bit.exe
 LICENSE
+
+# Evidencias y configuración local de la entrega
+evidencias/
+.jupyter_config/
